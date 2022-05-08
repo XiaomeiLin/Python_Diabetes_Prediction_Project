@@ -6,7 +6,7 @@ A few years ago research was done on a tribe in America which is called the Pima
 
 Here, we are analyzing different aspects of Diabetes in the Pima tribe by doing Exploratory Data Analysis.
 
-Data Dictionary
+## Data Dictionary
 
 The dataset has the following information:
 
